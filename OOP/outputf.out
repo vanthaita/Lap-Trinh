@@ -1,0 +1,27 @@
+Cau 2 xuat thong tin cac nhan vien trong cong ty
+Danh sach nhan vien trong cong ty:
+MaNV		Ho ten			Luong CB		So SP	Luong HT
+A2252173	Nguyen Van A	1.20501e+007	15
+A2422173	Nguyen Van B	1.53053e+007	12
+A2542173	Nguyen Van C	1.63253e+008	10
+A2265173	Nguyen Van D	1.63313e+007	5
+A2212133	Nguyen Van E	1.53531e+007	7
+A2255333	Nguyen Van F	1.15425e+007	12
+A2265323	Nguyen Van G	1.05134e+007	6
+A2252163	Nguyen Van H	1.35453e+007	11
+A2252343	Nguyen Van U	1.86453e+007	14
+A2235433	Nguyen Van M	1.35436e+007	26
+A2223763	Nguyen Van N	1.63645e+007	17
+A2431473	Nguyen Van T	1.35522e+007	20
+
+Cau 4 Tim nhan vien theo ma nhan vien A2252163: 
+A2252163	Nguyen Van H	1.35453e+007	11		1.70174e+007
+
+Cau 5 Cap nhan luong co ban nhan vien theo ma nhan vien A2235433: 
+A2235433	Nguyen Van M	1.5e+007	26		2.1505e+007
+
+Cau 6 Tim nhan vien co luong cao nhat: 
+A2252173	Nguyen Van A	1.20501e+007	15		1.61426e+007
+
+Cau 7 Tim nhan vien co so so san pham ban duoc thap nhat: 
+A2252173	Nguyen Van A	1.20501e+007	15		1.61426e+007
